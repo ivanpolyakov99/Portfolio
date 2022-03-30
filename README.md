@@ -1,4 +1,3 @@
-# Portfolio
-JavaScript portfolio on React
+# Portfolio on ReactAPP
 
-[Deploy Portfoliio](https://ivanpolyakov99.github.io/Portfolio/)
+[U can see me this](https://ivanpolyakov99.github.io/Portfolio/)
