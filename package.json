@@ -13,9 +13,13 @@
     "swiper": "^8.0.7",
     "web-vitals": "^2.1.4"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivanpolyakov99/Portfolio.git"
+  },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build && move build docs",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
