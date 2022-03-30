@@ -20,6 +20,8 @@
   },
   "homepage": "https://ivanpolyakov99.github.io/Portfolio",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b main -d docs",
     "start": "react-scripts start",
     "build": "react-scripts build && move build docs",
     "test": "react-scripts test",
